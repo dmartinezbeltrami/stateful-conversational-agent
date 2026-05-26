@@ -1,0 +1,4 @@
+openai
+python-dotenv
+python-certifi-win32
+pip-system-certs
